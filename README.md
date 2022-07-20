@@ -23,3 +23,4 @@
 - https://crates.io/crates/public
 - https://crates.io/crates/dbdump
 - https://crates.io/crates/tcpforward
+- https://crates.io/crates/caesar_cipher
