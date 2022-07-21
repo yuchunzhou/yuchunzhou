@@ -1,4 +1,4 @@
-👋 Hi, I’m @yuchunzhou, i am an opensource enthusiast, welcome to my Github page
+👋 Hi, I’m @yuchunzhou, an opensource enthusiast, welcome to my Github page
 
 ## Some patches i have submitted
 ### Emacs
