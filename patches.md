@@ -1,6 +1,3 @@
-👋 Hi, I’m @yuchunzhou, an opensource enthusiast, welcome to my Github page
-
-## Some patches i have submitted
 ### Emacs
 - https://github.com/company-mode/company-mode/pull/1328
 - https://github.com/company-mode/company-mode/pull/1163
@@ -18,9 +15,3 @@
 
 ### Rust
 - https://github.com/jwilm/rust-postgres-cursor/pull/6
-
-## Here are some opensource projects i have created
-- https://crates.io/crates/public
-- https://crates.io/crates/dbdump
-- https://crates.io/crates/tcpforward
-- https://crates.io/crates/caesar_cipher
